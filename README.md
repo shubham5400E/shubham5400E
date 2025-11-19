@@ -1,18 +1,18 @@
 <!-- Header Section -->
+
 <img align="right" src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" width="300"/>
 
 # 👋 Hi, I'm **Shubham Chaudhari**
-### 🚀 Android Developer | 🧠 Machine Learning Practitioner | 🎓 Computer Engineering Student
+### 🚀 Full Stack Developer | Android Developer | Computer Engineering Student
 
 ---
 
 ## 🌟 About Me
-- 🔭 Working on **Real-Time Violence Detection from IP Camera** (React + Flask + VideoMAE)
-- 🧠 Interested in **ML, Deep Learning, Computer Vision, Android Apps**
-- 📱 Building apps in **Java/Kotlin + Firebase**
-- 💡 Love making AI + App-based solutions for real-world problems
-- 🌱 Learning **Transformers, Supabase, Full Stack Development**
-- ⚡ Fun fact: I convert ideas into working projects FAST ⚙️🔥
+- 👨‍💻 **Full Stack Developer**
+- 🎓 Currently pursuing **B.E. in Computer Engineering**  
+  at **Dr. D. Y. Patil Institute of Technology, Pimpri, Pune**
+- 💡 Skilled in **Frontend, Backend, Database, Android Development**
+- 📱 Passionate about building real-world applications with modern technologies
 
 ---
 
@@ -26,12 +26,6 @@
 ## 📱 Android Development
 <p>
   <img src="https://skillicons.dev/icons?i=androidstudio,firebase,gradle" height="45"/>
-</p>
-
-## 🤖 Machine Learning / AI
-<p>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" height="45"/>
-  <br>OpenCV • YOLOv5/v8 • VideoMAE • Deep Learning
 </p>
 
 ## 🌐 Web Development
