@@ -30,12 +30,12 @@
 
 ## 🌐 Web Development
 <p>
-  <img src="https://skillicons.dev/icons?i=react,html,css,flask" height="45"/>
+  <img src="https://skillicons.dev/icons?i=react,html,css" height="45"/>
 </p>
 
 ## 🗄️ Database / Cloud
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,firebase,supabase" height="45"/>
+  <img src="https://skillicons.dev/icons?i=firebase,supabase" height="45"/>
 </p>
 
 ---
@@ -58,17 +58,17 @@
 
 ---
 
-## 🧠 Smart Entry System
-🔸 Face Recognition + QR Guest Access  
-🔸 Python + OpenCV + Firebase  
-🔗 *Add your repo link*
-
----
-
-## 🎯 YOLOv5 Live Object Detection
-🔸 Real-time detection using laptop camera  
-🔸 Pre-trained YOLOv5 model  
-🔗 *Add your repo link*
+## 🔥 Civic Issue Reporting System
+🔸 Mobile & Web Application for reporting civic issues  
+🔸 Photo proof, priority tagging & real-time status tracking  
+🔸 Admin dashboard for issue verification, assignment & performance monitoring  
+🔸 Built with React, React Native & Supabase  
+<p>
+  <img src="https://skillicons.dev/icons?i=react" height="30" />
+  <img src="https://skillicons.dev/icons?i=reactnative" height="30" />
+  <img src="https://skillicons.dev/icons?i=supabase" height="30" />
+</p>
+🔗 *Add your repo link here*
 
 ---
 
@@ -97,12 +97,7 @@
 
 # 🌐 Connect with Me
 <p>
-<a href="https://www.linkedin.com" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="45"/></a>
-<a href="mailto:your-email@example.com"><img src="https://skillicons.dev/icons?i=gmail" height="45"/></a>
+<a href="mailto:your-shubhamchaudhari2007@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="45"/></a>
 </p>
 
----
-
-# ❤️ Support
-If my work inspires you, consider giving ⭐ to my repositories — it motivates me 😄🚀
 
