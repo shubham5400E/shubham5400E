@@ -80,20 +80,6 @@
 
 ---
 
-# 🔥 Contribution Streak
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=shubham5400E&theme=highcontrast"/>
-</p>
-
----
-
-# 🏆 Developer Stats
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shubham5400E&theme=discord&margin-w=10&no-bg=true" />
-</p>
-
----
-
 # 🌐 Connect with Me
 <p>
 <a href="mailto:your-shubhamchaudhari2007@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="45"/></a>
