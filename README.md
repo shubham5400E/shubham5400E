@@ -47,7 +47,7 @@
 🔸 VideoMAE model for video classification  
 🔸 Multi-threaded, supports live camera & uploaded videos  
 🔸 Alerts stored in Supabase  
-🔗 *Add your repo link here*
+🔗 https://github.com/shubham5400E/Real-time_Violence_detection
 
 ---
 
