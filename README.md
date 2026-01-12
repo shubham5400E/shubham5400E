@@ -54,7 +54,6 @@
 ## 📚 Study Material Provider App
 🔸 Android + Firebase  
 🔸 Students can access full study material  
-🔗 *Add your repo link*
 
 ---
 
@@ -68,7 +67,7 @@
   <img src="https://skillicons.dev/icons?i=reactnative" height="30" />
   <img src="https://skillicons.dev/icons?i=supabase" height="30" />
 </p>
-🔗 *Add your repo link here*
+🔗 https://github.com/shubham5400E/College_Cart/tree/main/college
 
 ---
 
