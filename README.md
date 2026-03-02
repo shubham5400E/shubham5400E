@@ -70,6 +70,9 @@
 🔗 https://github.com/shubham5400E/College_Cart/tree/main/college
 
 ---
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 # 🌐 Connect with Me
 <p>
